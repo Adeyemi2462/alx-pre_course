@@ -1,2 +1,2 @@
 hi
-my readme.md is ready now
+ my readme.md is available now
