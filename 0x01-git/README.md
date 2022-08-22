@@ -1,2 +1,2 @@
-hello
-my readme.md is update do want to check it
+hi
+my readme.md will soon be available now
